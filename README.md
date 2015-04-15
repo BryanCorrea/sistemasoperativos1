@@ -1,2 +1,2 @@
-Descripcion repositorio Sistemas <strong>Operativos 1</strong>.
+Descripcion repositorio <strong>Sistemas Operativos 1</strong>.
 Material de Prueba en la materia
